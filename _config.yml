@@ -1,0 +1,22 @@
+# the language
+lang: en
+# author info
+author:
+  name: Haroen Viaene
+  email: hello@haroen.me
+  twitter: '@Haroenv'
+# title and description
+title: FCC Ghent
+description: The campsite of Free Code Camp Ghent
+# the url this will be published at
+url: https://fccghent.github.io
+baseurl: /
+# the theme colour
+color: '#FFFFFF'
+# location of some files
+css: 'src/style.css'
+scripts: ''
+favicon: 'src/favicon.png'
+#configuration
+sass:
+  style: compressed
